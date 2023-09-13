@@ -14,7 +14,7 @@ const Testimonial = () => {
         </p>
       </div>
       <div className="testimonials-bottom">
-        <div className="comment-1">
+        <div className="comment">
           <img src={JohnDoe} alt="" />
           <p className="primary-text">
             "The intricate computer-aided designs and minimalistic patterns make
@@ -30,12 +30,12 @@ const Testimonial = () => {
           </div>
           <h2>John Doe</h2>
         </div>
-        <div className="comment-2">
+        <div className="comment">
           <img src={Marsh} alt="" />
           <p className="primary-text">
             "When you touch the fabric, you won't believe it - an indescribable,
             comfortable sensation. Their manufacturing technology is truly
-            amazing, incredibly fast and precise according to what I want.""
+            amazing, incredibly fast and precise according to what I want."
           </p>
           <div className="star-container">
             <AiFillStar />

@@ -8,9 +8,9 @@ const Home = () => {
       <Navbar />
       <div className="image-background">
         <img src={ImgBg} alt="" />
-        <div className="text-overlay">Discover The Latest Fashion Trend</div>
-        <div className="button-overlay">
-          <button className="button-background">Shop Now</button>
+        <div className="content-overlay">
+          <div className="text-overlay">Discover The Latest Fashion Trend</div>
+          <button>Shop Now</button>
         </div>
       </div>
     </div>

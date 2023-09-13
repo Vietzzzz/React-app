@@ -5,7 +5,7 @@ const Question = () => {
     <div className="questions-container">
       <h1>
         To receive more exclusive offers <br></br>
-        sign up now.
+        Sign up now.
       </h1>
       <div className="question-box">
         <input type="text" placeholder="Youremail@gmail.com"></input>
