@@ -1,4 +1,5 @@
 import "./App.css";
+import React from "react";
 import Home from "./components/Home";
 import Benefit from "./components/Benefit";
 import Proficiencies from "./components/Proficiencies";
